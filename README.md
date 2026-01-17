@@ -3,8 +3,10 @@ A full-stack Car Rental Booking Application built using the MERN stack (MongoDB,
 
 ---
 
-🎥 **Demo Video:**  
-👉 https://youtu.be/tBObk72EY
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/E6j7wWdN9_c/0.jpg)](https://youtu.be/E6j7wWdN9_c)
+
 
 
 ## 📌 Features
