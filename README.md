@@ -119,18 +119,7 @@ car-rental-app/
 
 ---
 
-## ⚙️ Environment Variables
 
-Create a `.env` file inside the `server` folder:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-IMAGEKIT_PUBLIC_KEY=your_key
-IMAGEKIT_PRIVATE_KEY=your_key
-IMAGEKIT_URL_ENDPOINT=your_url
-```
 
 ---
 
